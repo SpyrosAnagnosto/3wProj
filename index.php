@@ -7,6 +7,16 @@
     <title>Document</title>
 
     <link rel="stylesheet" type="text/css" href="style/style.css">
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150660827-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-150660827-1');
+	</script>
 
 
 </head>
